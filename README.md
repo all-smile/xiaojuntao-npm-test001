@@ -31,3 +31,7 @@ npm dist-tag add yourpackagename@1.0.2 stable
 
 +stable: yourpackagename@1.0.2
 ```
+
+## notes
+
+[👉创建发布包流程](https://juejin.cn/post/7123082252614893575)
