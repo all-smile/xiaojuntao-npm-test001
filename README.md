@@ -23,3 +23,11 @@ console.log(test_npm)
 npm version patch
 npm publish
 ```
+
+## 添加 dist-tag 指定稳定版本 stable
+
+```
+npm dist-tag add yourpackagename@1.0.2 stable
+
++stable: yourpackagename@1.0.2
+```
