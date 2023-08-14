@@ -16,3 +16,10 @@ yarn add xiaojuntao-npm-test001
 var test_npm = require('xiaojuntao-npm-test001');
 console.log(test_npm)
 ```
+
+## 更新npm包
+
+```bash
+npm version patch
+npm publish
+```
