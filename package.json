@@ -1,6 +1,6 @@
 {
   "name": "xiaojuntao-npm-test001",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "my first npm",
   "main": "index.js",
   "scripts": {
